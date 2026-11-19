@@ -1,0 +1,3 @@
+[submodule "vendor/skytnt-midi-model"]
+	path = vendor/skytnt-midi-model
+	url = https://github.com/SkyTNT/midi-model.git
